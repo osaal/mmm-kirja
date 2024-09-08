@@ -1,11 +1,87 @@
 ::: {.content-visible when-profile="finnish"}
 # Esisanat {.unnumbered}
 
-Tervetuloa oppikirjaan **Modernit määrälliset menetelmät**
+Tervetuloa oppikirjaan **Modernit määrälliset menetelmät**.
+
+Kirja on jaettu osiin ja lukuihin sisällön mukaan. Sivun yläpalkista voit navigoida kirjan eri osiin. Jokaisen osan sivupalkista voit navigoida osan lukuihin.
+
+Puhelimella tai pienellä näytöllä saat yläpalkin navigoinnin esille painamalla hampurilaisvalikkoa yläpalkin vasemmalla puolella. Sivupalkin navigoinnin saat esille painamalla pientä kirjan ikonia ylävasemmalla, yläpalkin hampurilaisvalikon alla.
+
+Voit laatia suoralinkin mihin tahansa otsikkoon tai alaotsikkoon siirtämällä hiiren osoittimen otsikon päälle ja painamalla pientä ketjuikonia. Voit sitten tallentaa selaimen osoitteen kirjainmerkkeihisi tai kopioida osoitteen haluamaasi kohteeseen.
+
+Mukavia tilastollisia työhetkiä!
+
+**Kirjan versio**: {{< var version >}}
+
+**Päivityshistoria** löytyy kirjan viimeisestä luvusta. Uusimman päivityksen tiedot löytyvät myös alta.
+
+## Kirjan oikeellisuus ja mahdolliset virheet
+
+Kirjoitushetkellä kirjaa ei vielä olla julkaistu virallisesti. Siinä esiintyy luultavammin virheitä, puutteita ja muita ongelmia.
+
+Voit ilmoittaa virheistä ja ongelmista GitHub-palvelussa Issue-viestillä. Linkki löytyy jokaisen sivun oikealta puolelta otsikolla "Ilmoita ongelmasta".
+
+## Lähdekoodi
+
+Kirjan lähdekoodi on vapaasti saatavilla GitHubissa. Avaa kirjan GitHub-repositorio painamalla GitHub-ikonia yläpalkissa. Repositoriossa on ohjeet, miten voit tehdä oman paikallisen kopion kirjasta sekä ehdottaa muutoksia tai lisäyksiä kirjaan.
+
+## Tekijänoikeudet
+
+Tämä kirja käyttää [Creative Commons Nimeä 4.0 Kansainvälinen](https://creativecommons.org/licenses/by/4.0/deed.fi) (CC BY 4.0) -lisenssiä. Voit vapaasti kopioida, levittää ja jakaa kirjan sisältöä missä tahansa muodossa, sekä muokata sisältöä uudelleen. Sinun on kuitenkin viitattava alkuperäiseen kirjaan, nimetä lisenssi käytössäsi, sekä merkittävä kaikki muutokset, jotka olet tehnyt. Kirjaa saa käyttää myös kaupallisiin tarkoituksiin.
+
+## Viittaaminen
+
+Voit viitata tähän kirjaan muodossa:
+
+> Saal, Oliver (2024). Modernit määrälliset menetelmät. https://osaal.github.io/mmm-kirja/fi.
+
+Huomaa, että kirja on julkaistu kahdella kielellä. Läpinäkyvyyden vuoksi suosittelen, että viittaat lukemaasi kieliversioon.
+
+## Uusin päivitys
+
+Tällä hetkellä kirjalla ei ole versiohistoriaa.
 :::
 
 ::: {.content-visible when-profile="swedish"}
 # Förord {.unnumbered}
 
-Välkommen till läroboken **Moderna statistiska metoder**
+Välkommen till läroboken **Moderna statistiska metoder**.
+
+Boken är delad i delar och kapitel enligt innehållet. Du kan navigera till de olika delarna från sidans övre balk. Inom varje del kan du navigera till delens kapitel från sidobalken.
+
+På en telefon eller liten skärm får du övre balkens navigation fram genom att trycka på hamburgermenyn i övre balkens vänstra hörn. Sidobalkens navigation får du fram genom att trycka på den lilla bokikonen i övre vänstra hörnet, under över balkens hamburgermeny.
+
+Du kan skapa en direktlänk till vilken som helst rubrik eller underrubrik genom att föra muspekaren på rubriken och trycka på den lilla kedjeikonen. Du kan sedan spara webbläsarens address i dina bokmärken eller kopiera addressen till valfri destination.
+
+Trevligt statistiskt arbete!
+
+**Bokens version**: {{< var version >}}
+
+**Uppdateringshistorien** finns i bokens sista kapitel. Informationen angående den senaste uppdateringen finns även nedan.
+
+## Bokens korrekthet och möjliga fel
+
+Vid författningsstund har boken inte ännu publicerats officiellt. Boken innehåller förmodligen fel, saknar innehåll samt har andra problem.
+
+Du kan anmäla om fel och problem med ett Issue-meddelande i GitHub. Länk till att göra detta finns på varje sida på den högra sidan under rubriken "Rapportera ett problem".
+
+## Källkod
+
+Bokens källkod är fritt tillgänglig i GitHub. Öppna bokens GitHub-repositorium genom att trycka på GitHub-ikonen i övre balken. Repositoriet innehåller instruktioner hur du kan skapa en lokal kopia av boken samt föreslå ändringar eller tillägg till boken.
+
+## Copyright
+
+Denna bok använder [Creative Commons Erkännande 4.0 Internationell](https://creativecommons.org/licenses/by/4.0/deed.sv) (CC BY 4.0)-licens- Du kan fritt kopiera, sprida och dela bokens innehåll i alla format samt ändra på innehållet. Du måste dock referera till den ursprunglika boken, namnge licensen du använder samt bemärka alla förändringar som du gjort. Boken får användas i kommersiellt syfte.
+
+## Referens
+
+Du kan referera till boken med följande information:
+
+> Saal, Oliver (2024). Moderna statistiska metoder. https://osaal.github.io/mmm-kirja/sv.
+
+Märk att boken finns publicerad på två språk. För genomskinlighet rekommenderar jag att du refererar till den språkversion du läst.
+
+## Senaste uppdatering
+
+Vid författande stund har boken ingen versionshistoria.
 :::

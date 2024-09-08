@@ -13,7 +13,7 @@ book:
           department: Tutkimus-, kehittämis- ja innovaatiopalvelut
           city: Kuopio
           country: FI
-          url: www.pelastusopisto.fi
+          url: https://www.pelastusopisto.fi
   date: last-modified
   license: CC BY
   repo-url: https://github.com/osaal/mmm-kirja

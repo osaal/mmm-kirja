@@ -4,7 +4,57 @@
     "href": "index.html",
     "title": "Modernit määrälliset menetelmät",
     "section": "",
-    "text": "Esisanat\nTervetuloa oppikirjaan Modernit määrälliset menetelmät",
+    "text": "Esisanat\nTervetuloa oppikirjaan Modernit määrälliset menetelmät.\nKirja on jaettu osiin ja lukuihin sisällön mukaan. Sivun yläpalkista voit navigoida kirjan eri osiin. Jokaisen osan sivupalkista voit navigoida osan lukuihin.\nPuhelimella tai pienellä näytöllä saat yläpalkin navigoinnin esille painamalla hampurilaisvalikkoa yläpalkin vasemmalla puolella. Sivupalkin navigoinnin saat esille painamalla pientä kirjan ikonia ylävasemmalla, yläpalkin hampurilaisvalikon alla.\nVoit laatia suoralinkin mihin tahansa otsikkoon tai alaotsikkoon siirtämällä hiiren osoittimen otsikon päälle ja painamalla pientä ketjuikonia. Voit sitten tallentaa selaimen osoitteen kirjainmerkkeihisi tai kopioida osoitteen haluamaasi kohteeseen.\nMukavia tilastollisia työhetkiä!\nKirjan versio: 0.1\nPäivityshistoria löytyy kirjan viimeisestä luvusta. Uusimman päivityksen tiedot löytyvät myös alta.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#kirjan-oikeellisuus-ja-mahdolliset-virheet",
+    "href": "index.html#kirjan-oikeellisuus-ja-mahdolliset-virheet",
+    "title": "Modernit määrälliset menetelmät",
+    "section": "Kirjan oikeellisuus ja mahdolliset virheet",
+    "text": "Kirjan oikeellisuus ja mahdolliset virheet\nKirjoitushetkellä kirjaa ei vielä olla julkaistu virallisesti. Siinä esiintyy luultavammin virheitä, puutteita ja muita ongelmia.\nVoit ilmoittaa virheistä ja ongelmista GitHub-palvelussa Issue-viestillä. Linkki löytyy jokaisen sivun oikealta puolelta otsikolla “Ilmoita ongelmasta”.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#lähdekoodi",
+    "href": "index.html#lähdekoodi",
+    "title": "Modernit määrälliset menetelmät",
+    "section": "Lähdekoodi",
+    "text": "Lähdekoodi\nKirjan lähdekoodi on vapaasti saatavilla GitHubissa. Avaa kirjan GitHub-repositorio painamalla GitHub-ikonia yläpalkissa. Repositoriossa on ohjeet, miten voit tehdä oman paikallisen kopion kirjasta sekä ehdottaa muutoksia tai lisäyksiä kirjaan.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#tekijänoikeudet",
+    "href": "index.html#tekijänoikeudet",
+    "title": "Modernit määrälliset menetelmät",
+    "section": "Tekijänoikeudet",
+    "text": "Tekijänoikeudet\nTämä kirja käyttää Creative Commons Nimeä 4.0 Kansainvälinen (CC BY 4.0) -lisenssiä. Voit vapaasti kopioida, levittää ja jakaa kirjan sisältöä missä tahansa muodossa, sekä muokata sisältöä uudelleen. Sinun on kuitenkin viitattava alkuperäiseen kirjaan, nimetä lisenssi käytössäsi, sekä merkittävä kaikki muutokset, jotka olet tehnyt. Kirjaa saa käyttää myös kaupallisiin tarkoituksiin.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#viittaaminen",
+    "href": "index.html#viittaaminen",
+    "title": "Modernit määrälliset menetelmät",
+    "section": "Viittaaminen",
+    "text": "Viittaaminen\nVoit viitata tähän kirjaan muodossa:\n\nSaal, Oliver (2024). Modernit määrälliset menetelmät. https://osaal.github.io/mmm-kirja/fi.\n\nHuomaa, että kirja on julkaistu kahdella kielellä. Läpinäkyvyyden vuoksi suosittelen, että viittaat lukemaasi kieliversioon.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#uusin-päivitys",
+    "href": "index.html#uusin-päivitys",
+    "title": "Modernit määrälliset menetelmät",
+    "section": "Uusin päivitys",
+    "text": "Uusin päivitys\nTällä hetkellä kirjalla ei ole versiohistoriaa.",
     "crumbs": [
       "Esisanat"
     ]

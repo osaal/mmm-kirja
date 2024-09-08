@@ -4,7 +4,57 @@
     "href": "index.html",
     "title": "Moderna statistiska metoder",
     "section": "",
-    "text": "Förord\nVälkommen till läroboken Moderna statistiska metoder",
+    "text": "Förord\nVälkommen till läroboken Moderna statistiska metoder.\nBoken är delad i delar och kapitel enligt innehållet. Du kan navigera till de olika delarna från sidans övre balk. Inom varje del kan du navigera till delens kapitel från sidobalken.\nPå en telefon eller liten skärm får du övre balkens navigation fram genom att trycka på hamburgermenyn i övre balkens vänstra hörn. Sidobalkens navigation får du fram genom att trycka på den lilla bokikonen i övre vänstra hörnet, under över balkens hamburgermeny.\nDu kan skapa en direktlänk till vilken som helst rubrik eller underrubrik genom att föra muspekaren på rubriken och trycka på den lilla kedjeikonen. Du kan sedan spara webbläsarens address i dina bokmärken eller kopiera addressen till valfri destination.\nTrevligt statistiskt arbete!\nBokens version: 0.1\nUppdateringshistorien finns i bokens sista kapitel. Informationen angående den senaste uppdateringen finns även nedan.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#bokens-korrekthet-och-möjliga-fel",
+    "href": "index.html#bokens-korrekthet-och-möjliga-fel",
+    "title": "Moderna statistiska metoder",
+    "section": "Bokens korrekthet och möjliga fel",
+    "text": "Bokens korrekthet och möjliga fel\nVid författningsstund har boken inte ännu publicerats officiellt. Boken innehåller förmodligen fel, saknar innehåll samt har andra problem.\nDu kan anmäla om fel och problem med ett Issue-meddelande i GitHub. Länk till att göra detta finns på varje sida på den högra sidan under rubriken “Rapportera ett problem”.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#källkod",
+    "href": "index.html#källkod",
+    "title": "Moderna statistiska metoder",
+    "section": "Källkod",
+    "text": "Källkod\nBokens källkod är fritt tillgänglig i GitHub. Öppna bokens GitHub-repositorium genom att trycka på GitHub-ikonen i övre balken. Repositoriet innehåller instruktioner hur du kan skapa en lokal kopia av boken samt föreslå ändringar eller tillägg till boken.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "Moderna statistiska metoder",
+    "section": "Copyright",
+    "text": "Copyright\nDenna bok använder Creative Commons Erkännande 4.0 Internationell (CC BY 4.0)-licens- Du kan fritt kopiera, sprida och dela bokens innehåll i alla format samt ändra på innehållet. Du måste dock referera till den ursprunglika boken, namnge licensen du använder samt bemärka alla förändringar som du gjort. Boken får användas i kommersiellt syfte.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#referens",
+    "href": "index.html#referens",
+    "title": "Moderna statistiska metoder",
+    "section": "Referens",
+    "text": "Referens\nDu kan referera till boken med följande information:\n\nSaal, Oliver (2024). Moderna statistiska metoder. https://osaal.github.io/mmm-kirja/sv.\n\nMärk att boken finns publicerad på två språk. För genomskinlighet rekommenderar jag att du refererar till den språkversion du läst.",
+    "crumbs": [
+      "Esisanat"
+    ]
+  },
+  {
+    "objectID": "index.html#senaste-uppdatering",
+    "href": "index.html#senaste-uppdatering",
+    "title": "Moderna statistiska metoder",
+    "section": "Senaste uppdatering",
+    "text": "Senaste uppdatering\nVid författande stund har boken ingen versionshistoria.",
     "crumbs": [
       "Esisanat"
     ]
