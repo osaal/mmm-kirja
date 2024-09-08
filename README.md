@@ -24,7 +24,7 @@ git clone https://github.com/osaal/mmm-kirja
 
 Muokkaukset tehdään `.qmd`-tiedostoihin (Quarto-järjestelmän oma Markdown-tiedostomuoto). Voit tehdä muutokset haluamallasi teksti- tai koodieditorilla -- Quarton tiedostot voidaan avata vaikka Windowsin Muistio-ohjelmassa, joskin suosittelen kunnon koodieditoria.
 
-Verkkosivu renderöidään käyttäen kahta Quarto-profiilia: `finnish` ja `swedish`. Nimensä mukaisesti profiilit renderöivät eri kieliversiot. Renderitiedostot löytyvät renderöinnin jälkeen kansioista `_site/fi` ja `_site/sv`
+Verkkosivu renderöidään käyttäen kahta Quarto-profiilia: `finnish` ja `swedish`. Nimensä mukaisesti profiilit renderöivät eri kieliversiot. Renderitiedostot löytyvät renderöinnin jälkeen kansioista `docs/fi` ja `docs/sv`
 
 Nähdäksesi muutokset liveversiossa, voit preview-renderöidä sivuston:
 
@@ -49,7 +49,7 @@ Repositorion päätasolta löytyy Quarton konfigurointitiedostot `.yml`-muodossa
 
 Päätasolla on kolme kansiota:
 
-1.  `_site`: Sisältää Quarton renderöimät HTML-sivut
+1.  `docs`: Sisältää Quarton renderöimät HTML-sivut
 2.  `.quarto`: Sisältää Quarton metatietoja (jos tätä ei löydy, Quarto rakentaa oman kun renderöit ensimmäisen kerran)
 3.  `src`: Sisältää kirjan lähdekooditiedostot
 
@@ -124,7 +124,7 @@ git clone https://github.com/osaal/mmm-kirja
 
 Modifieringarna till texten görs i `.qmd`-filer (Quarto-systemets egen Markdown-filformat). Du kan göra ändringar i valfritt text- eller kodprogram -- Quartos filer kan till och med öppnas i Windows Notepad-program, men jag rekommenderar ett propert kodprogram.
 
-Nätsidan sammanfogas med två Quarto-profiler: `finnish` och `swedish`. Så som namnen föreslår sammanfogar profilerna de olika språkversionerna. De sammanfogade filerna finns sedan i mapperna `_site/fi` och `_site/sv`.
+Nätsidan sammanfogas med två Quarto-profiler: `finnish` och `swedish`. Så som namnen föreslår sammanfogar profilerna de olika språkversionerna. De sammanfogade filerna finns sedan i mapperna `docs/fi` och `docs/sv`.
 
 För att se förändringarna i liveversionen kan du preview-sammanfoga nätsidan:
 
@@ -148,7 +148,7 @@ Repositoriets huvudnivå innehåller Quarto-konfigureringsfilerna i `.yml`-forma
 
 Huvudnivån har tre mapper:
 
-1.  `_site`: Innehåller HTML-filerna som Quarto sammanfogar
+1.  `docs`: Innehåller HTML-filerna som Quarto sammanfogar
 2.  `.quarto`: Innehåller Quartos metadata (Quarto skapar denna vid första sammanfogningen om den inte finns)
 3.  `src`: Innehåller bokens källfiler
 
