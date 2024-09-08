@@ -1,0 +1,11 @@
+::: {.content-visible when-profile="finnish"}
+# Esisanat {.unnumbered}
+
+Tervetuloa oppikirjaan **Modernit määrälliset menetelmät**
+:::
+
+::: {.content-visible when-profile="swedish"}
+# Förord {.unnumbered}
+
+Välkommen till läroboken **Moderna statistiska metoder**
+:::

@@ -1,0 +1,16 @@
+project:
+  output-dir: ./_site/fi
+
+book:
+  title: "Modernit määrälliset menetelmät"
+  chapters:
+    - index.qmd
+  sidebar:
+    contents: auto
+
+bibliography: references.bib
+lang: fi
+
+format:
+  html:
+    theme: pulse

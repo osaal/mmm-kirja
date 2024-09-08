@@ -1,0 +1,16 @@
+project:
+  output-dir: ./_site/sv
+
+book:
+  title: "Moderna statistiska metoder"
+  chapters:
+    - index.qmd
+  sidebar:
+    contents: auto
+
+bibliography: references.bib
+lang: sv
+
+format:
+  html:
+    theme: pulse

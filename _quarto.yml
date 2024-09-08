@@ -1,0 +1,43 @@
+project:
+  type: book
+
+book:
+  author:
+    - name: Oliver Saal
+      orcid: 0000-0002-4870-0458
+      url: https://osaal.github.io
+      email: oliver.saal@pelastusopisto.fi
+      corresponding: true
+      affiliation:
+        - name: Pelastusopisto
+          department: Tutkimus-, kehittämis- ja innovaatiopalvelut
+          city: Kuopio
+          country: FI
+          url: www.pelastusopisto.fi
+  date: last-modified
+  license: CC BY
+  repo-url: https://github.com/osaal/mmm-kirja
+  repo-actions: [edit, source, issue]
+  navbar:
+    search: true
+    right:
+      - icon: translate
+        menu:
+        - text: "Suomi"
+          href: ../fi
+        - text: "Svenska"
+          href: ../sv
+    tools:
+      - icon: twitter
+        href: https://twitter.com/osaal
+      - icon: house
+        href: https://osaal.github.io
+  sidebar:
+    style: floating
+    type: dark
+    border: true
+  page-footer: "Copyright 2024, Oliver Saal | Licence: CC-BY 4.0"
+
+profile:
+  default: finnish
+  group: [finnish, swedish]
