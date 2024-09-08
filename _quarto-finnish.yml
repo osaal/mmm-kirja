@@ -1,5 +1,5 @@
 project:
-  output-dir: ./_site/fi
+  output-dir: ./docs/fi
 
 book:
   title: "Modernit määrälliset menetelmät"
