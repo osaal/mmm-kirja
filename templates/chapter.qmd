@@ -1,0 +1,73 @@
+---
+title: Chapter Title
+date: last-modified
+author:
+    name: Author Name
+    email: author.name@example.com
+    orcid: 0000-0000-0000-0000
+    url: https://www.example.com
+    affiliation:
+      - name: University
+        department: Department of Research
+        city: City
+        url: https://www.university.com
+keywords:
+    - one
+    - to
+    - five
+    - descriptive
+    - keywords
+abstract: |
+    Write a short abstract (preferably under 100 words) that describes the chapter
+license: CC-BY 4.0
+---
+
+# YAML Header {#sec-template-yamlheader}
+
+The YAML header must contain the example information. More information specified below:
+
+-  Title should be very succinct, as this is a book and not a paper
+-  Date should always be "last-modified", which sets the date to the last render of the text
+-  Author should at least contain name and email, other information is optional
+-  Use one to five keywords to describe the contents of the chapter
+-  Write a short abstract
+-  Language should be either `fi` or `sv`
+-  License should always be CC-BY 4.0, as that is the license of the book
+
+# Chapter Headings {#sec-template-chapterheadings}
+
+Add cross-referenceable tags to the chapter headings:
+
+``` {markdown}
+#| label: template-chapterheadings-example
+#| exec: false
+
+# Chapter heading {#sec-chapterheading}
+```
+
+The tag should be short but unique. When rendering, Quarto will tell you if two tags are colliding. It is recommended to prefix the chapter headings with a prefix suitable for the part the chapter is a part of (e.g., `#sec-ttest-basics` for a heading called "Basics" in the chapter on T-tests).
+
+# Code Cells {#sec-template-codecells}
+
+Use labels for all code cells to make them crossreferenceable. It is recommended to prefix code cells like chapter headings, but remember to make them unique to not have them collide with chapter heading tags:
+
+```` {markdown}
+``` {r}
+#| label: sec-template-codecells-example
+R.version()
+```
+````
+
+# References {#sec-template-references}
+
+Always have a final section that includes the `#refs` div, like below:
+
+``` {markdown}
+#| exec: false
+::: {#refs}
+:::
+```
+
+::: {#refs}
+:::
+
