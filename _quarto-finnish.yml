@@ -5,6 +5,7 @@ book:
   title: "Modernit määrälliset menetelmät"
   chapters:
     - index.qmd
+    - part: src/fi/intro.qmd
   sidebar:
     contents: auto
 

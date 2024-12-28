@@ -58,5 +58,55 @@
     "crumbs": [
       "Esisanat"
     ]
+  },
+  {
+    "objectID": "src/fi/intro.html",
+    "href": "src/fi/intro.html",
+    "title": "Aloitus",
+    "section": "",
+    "text": "Miksi taas uusi kirja tilastotieteestä?\nOppikirjoja on pilvin pimein, ja niitä julkaistaan uusia joka vuosi. Oppimateriaalien kehittäminen onkin oma markkinansa, jossa kirjoittajia kannustetaan rahallisesti tuottamaan uusia, harvoin suuresti muokattuja painoksia aikaisemmista teoksista ja myymään niitä opiskelijoille ja yliopistokirjastoille.\nMiksi sitten kirjoittaa taas uusi kirja tilastollisesta työskentelystä? Ennen kuin hyppään syvällisempiin syihin, haluan antaa kolme mielestäni itsestäänselvää syytä:\nOlen ehkä radikaali, kun väitän, että oppimisen ei tulisi maksaa yksilölle. Näin kuitenkin ajattelen, ja tämän oppikirjan ilmaiseksi julkaiseminen on osa tätä ideologiaani. Samalla kun kerran tehdään, niin tehdään kunnolla: kirjan tiedot pohjautuvat uusimpiin kehityksiin psykometriikassa (ihmisen mittaamisen tieteessä). Jos ei kuitenkaan onnistuta kerralla, niin verkkokirjamuoto ja avoin julkaisu mahdollistaa kirjan päivittämisen ja korjaamisen milloin tahansa kenen tahansa – kyllä, myös sinun! – toimesta.",
+    "crumbs": [
+      "Aloitus"
+    ]
+  },
+  {
+    "objectID": "src/fi/intro.html#sec-fi-intro-motivation-1",
+    "href": "src/fi/intro.html#sec-fi-intro-motivation-1",
+    "title": "Aloitus",
+    "section": "Modernit menetelmät vaativat modernin käsittelyn",
+    "text": "Modernit menetelmät vaativat modernin käsittelyn\nTilastotiede kehittyy erittäin nopeasti. Tätä kehitystä on nopeuttanut varsinkin 90- ja 2000-luvun tietotekniset kehitykset, jolloin tietokoneista on tullut moninkertaisesti tehokkaampia. Ennen vanhaan tilastotiedettä opeteltiin matemaattisten kaavojen ja suurten taulukkojen avulla, nykyään näihin ei juurikaan kosketa käytännön työssä.\nTilastollinen opetus ei kuitenkaan ole aina seurannut tätä kehitystä, varsinkaan suomeksi. Pieni maamme ja kielemme ei välttämättä mahda sisällensä tarpeeksi tilastotieteestä, tieteen käytännön tekemisestä sekä tiedeviestinnästä samanaikaisesti kiinnostuneita yksilöitä, jotta uusimmat kehitykset saataisiin opetuskäytäntöön.\nJos avaan tällä hetkellä käytännössä minkä tahansa suomenkielisen tilastollisen oppikirjan, voin katsomattakin veikata, että sisältö seuraa kuta kuinkin seuraavaa järjestystä:\n\nYksi lyhyt luku, mitä tilastoilla voidaan tehdä\nMuutama luku mittaustasoista, ehkä jopa luku kyselytutkimuksesta\nSijaintiluvut ja hajontaluvut\nRistiintaulukointi\nKorrelaatio, varianssianalyysi (vain yksinkertainen, luultavasti vain ryhmien välinen ANOVA)\nVähimmäisen neliön regressioanalyysi, logistinen regressioanalyysi\nEksploratiivinen faktorianalyysi ja PCA-menetelmä\nTulosten raportoiminen\n\nAloittelijalle nämä eivät välttämättä sano mitään, mutta varttuneemmalle tutkijalle listaus pitäisi olla aika tuttu. Sillä näitä samoja asioita on opetettu jo melkein viisikymmentä vuotta.\nKuitenkaan tuosta listasta ei nykypäivänä saa työkalupakkia tieteelliseen julkaisuun, varsinkaan yhteiskunta- ja ihmistieteissä! Lukija voi kokeilla julkaista vain OLS-regressioon tai ANOVA-malliin pohjautuvan tutkimusartikkelin modernissa aikakauslehdessä – uskallan väittää, että artikkeli tulee takaisin bumerangina, jos ei analyysiin lisätä muita osuuksia.\nOn yksinkertainen fakta, ettei nämä menetelmät enää yksinään riitä. Bivariaatit (kahden muuttujan väliset) mallit kehitettiin aikana, jolloin kynä ja paperi hallitsi tilastotiedettä, ja mittauspisteitä oli kymmeniä, ei tuhansia. Monessa tieteenhaarassa tiedämme myös tässä vaiheessa niin paljon perusasioista, ettei nykyisiä monimutkasia muuttujasuhteita enää voida testata yksinkertaisilla kaksi- ja monimuuttujamalleilla.",
+    "crumbs": [
+      "Aloitus"
+    ]
+  },
+  {
+    "objectID": "src/fi/intro.html#sec-fi-intro-motivation-2",
+    "href": "src/fi/intro.html#sec-fi-intro-motivation-2",
+    "title": "Aloitus",
+    "section": "Tilastotiede pohjautuu yhteen kaavioon",
+    "text": "Tilastotiede pohjautuu yhteen kaavioon\nToinen ongelma tilastotieteessä koskee tiedettä laajemmin. Eri tilastolliset menetelmät tulevat eri tieteenaloilta – esimerkkinä varianssianalyysi kehitettiin biologiassa, logistinen regressioanalyysi sosiologiassa, ja rakenneyhtälömallit psykologiassa, kauppatieteissä ja pedagogiikassa.\nEri kehitysurien takia tilastotiede käyttää melkein järkyttäviä määriä eri sanoja ja malleja, jotka tarkoittavat samaa asiaa! Rakkaalla lapsella on monta nimeä, ja tilastotieteessä rakastetaan lapsiaan suuresti.\nTämä kehitys heikentää luonnollisesti uuden opiskelijan oppimismahdollisuuksia – miksi hänen pitäisi oppia viisi eri termiä virhemittaukselle? Toiseksi tieteen monimuotoisuus on omiaan häivyttämään menetelmien samankaltaisuutta.",
+    "crumbs": [
+      "Aloitus"
+    ]
+  },
+  {
+    "objectID": "src/fi/intro.html#sec-fi-intro-intent-1",
+    "href": "src/fi/intro.html#sec-fi-intro-intent-1",
+    "title": "Aloitus",
+    "section": "Rakenneyhtälömallintamista koko matkan",
+    "text": "Rakenneyhtälömallintamista koko matkan\nOn tilastotieteellinen loukkaus väittää, että jonkun henkilön malli on vain erityistapaus minun omasta yleismallistani. Kuitenkin näin usein on: t-testi on vain erityistapaus varianssianalyysista, varianssianalyysi on vain erityistapaus regressiosta, ja regressio on vain erityistapaus rakenneyhtälömalleista.\nTätä suhdetta kutsutaan yleiseksi lineaariseksi malliksi. Toisin sanoen: kaikki lineaariset mallit ovat käytännössä sama asia. Saat saman tuloksen varianssianalyysista, jossa on vain kaksi luokkaa ennustavassa muuttujassa, kuin saisit t-testistä näillä kahdella luokalla, sillä testi on käytännössä sama. Voit tuottaa OLS-regression tulokset ANOVA-mallilla hyödyntäen kovariaatteja, ja ANOVA-mallin voit toistaa OLS-regressiossa dummy-muuttujilla. Ja pohjalla kaikki perustuu varianssi-kovarianssi-matriisien sekä keskiarvovektoreiden analyysiin, eli rakenneyhtälömallintamiseen.\nNäiden sanojen ei tarvitse merkitä lukijalle tässä hetkessä yhtään mitään muuta, kuin seuraavaa:\n\nTämän kirjan tarkoituksena on esittää tilastotiede yhdestä yhtenäisestä paradigmasta, rakenneyhtälömallintamisen näkökulmasta.",
+    "crumbs": [
+      "Aloitus"
+    ]
+  },
+  {
+    "objectID": "src/fi/intro.html#sec-fi-intro-motivation-3",
+    "href": "src/fi/intro.html#sec-fi-intro-motivation-3",
+    "title": "Aloitus",
+    "section": "Rakenneyhtälömallintamista koko matkan",
+    "text": "Rakenneyhtälömallintamista koko matkan\nOn tilastotieteellinen loukkaus väittää, että jonkun henkilön malli on vain erityistapaus minun omasta yleismallistani. Kuitenkin näin usein on: t-testi on vain erityistapaus varianssianalyysista, varianssianalyysi on vain erityistapaus regressiosta, ja regressio on vain erityistapaus rakenneyhtälömalleista.\nTätä suhdetta kutsutaan yleiseksi lineaariseksi malliksi. Toisin sanoen: kaikki lineaariset mallit ovat käytännössä sama asia. Saat saman tuloksen varianssianalyysista, jossa on vain kaksi luokkaa ennustavassa muuttujassa, kuin saisit t-testistä näillä kahdella luokalla, sillä testi on käytännössä sama. Voit tuottaa OLS-regression tulokset ANOVA-mallilla hyödyntäen kovariaatteja, ja ANOVA-mallin voit toistaa OLS-regressiossa dummy-muuttujilla. Ja pohjalla kaikki perustuu varianssi-kovarianssi-matriisien sekä keskiarvovektoreiden analyysiin, eli rakenneyhtälömallintamiseen.\nNäiden sanojen ei tarvitse merkitä lukijalle tässä hetkessä yhtään mitään muuta, kuin seuraavaa:\n\nTämän kirjan tarkoituksena on esittää tilastotiede yhdestä yhtenäisestä paradigmasta, rakenneyhtälömallintamisen näkökulmasta.",
+    "crumbs": [
+      "Aloitus"
+    ]
   }
 ]
